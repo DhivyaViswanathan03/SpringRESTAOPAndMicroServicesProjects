@@ -1,0 +1,15 @@
+{
+"id":10,
+"firstName":"Dhivya",
+"lastName":"Viswanathan",
+"active":true,
+"address":{
+
+"street":"Eriyur",
+"city":"Namakkal",
+"state":"Tamilnadu",
+"country":"India"
+},
+"languages":["java","c","c++","spring"],
+"company":"navis"
+}
